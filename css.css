@@ -1,0 +1,106 @@
+body{ background-color: #e7d8f0;}
+p{ font-family: Helvetica; }
+p{ font-size: 17px;
+   line-height: 22px}
+p{ color: #571d78; } 
+p{ padding-left: 615px;
+   padding-top: 0px}
+p{ height: 600px;
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle}
+#logo {
+	top: 20px;}
+img.name { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#stuff {
+position: absolute;
+top: 210px;
+left: 215px;
+}
+
+h1{ color: #571d78; }
+h1{ font-weight: bolder;}
+h1{ font-family: sans-serif; }
+h1{ font-size: 110%}
+h1{ letter-spacing: 2px; }
+h1{ text-align: center; }
+
+a:link{ color: #8e53af; text-decoration: none; }
+a:visited{ color: #571d78; text-decoration: none; } 
+a:hover{ color: #571d78; text-decoration: none;} 
+
+
+#nav { 
+   height: 10em;
+   position: relative;
+   left: 25px }
+}
+#nav {
+   position: absolute;
+}
+#nav {
+   margin: 0;
+   position: absolute;               
+   top: 50%;                         
+   transform: translate(0, -50%)
+}
+#insidenav {
+   width: 165px;
+border-top-style: dotted; 
+border-top-color: #571d78; 
+border-top-width: 2px;
+border-bottom-style: dotted; 
+border-bottom-color: #571d78; 
+border-bottom-width: 2px; 
+padding: 10px;
+text-align: center;
+font-family: sans-serif;
+font-size: 16px;
+font-weight: bold;
+line-height: 30px;
+}
+#insidenav a{
+color: #8e53af; text-decoration: none; 
+}
+#insidenav a:visited{
+color: #571d78; text-decoration: none; 
+} 
+#insidenav a:hover{
+color: #571d78; text-decoration: none;} display:block;font-weight: bolder
+}
+}
+#nav {
+padding: 0px
+}
+#stuff { padding: 15px;} 
+#stuff { background-color:#;}
+#stuff { margin-right: 35px;}
+#stuff { margin-bottom: 50px;}
+
+#credittobula{
+position: absolute;
+top: 830;
+left: 230;}
+#credittobula{
+font-family: Helvetica; 
+font-size: 14px;
+color: #571d78; }
+#credittobula a{ color: #8e53af; text-decoration: none; }
+#credittobula  a:hover{ color: #571d78; text-decoration: none;} 
+
+#sitecredit {
+font-family: Helvetica; 
+font-size: 14px;
+color: #571d78; 
+padding-top: 700px;
+padding-bottom: 30px;}
+
+#sitecredit {
+  display: inline-block;}
+
+#wrapper {
+text-align: center}

@@ -1,0 +1,36 @@
+body{ background-color: #e7d8f0;}
+
+
+img.logo {
+    margin: 0;
+    position: absolute;
+    top: 400px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+
+
+p{ font-family: sans-serif; }
+p{ font-size: 25px}
+p{ color: #571d78; } 
+p{
+    height: 10em;
+    position: absolute }
+p{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%) }
+
+
+p{ word-spacing: 30px }
+
+p{
+   padding-top: 535px}
+
+
+a:link { color: #571d78; text-decoration: none; }
+a:visited { color: #8e53af; text-decoration: none; } 
+a:hover { color: #8e53af; text-decoration: none;} 
